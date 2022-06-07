@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AbedElqader</string>
+    <style name="splash" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
